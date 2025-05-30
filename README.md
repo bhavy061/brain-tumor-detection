@@ -1,1 +1,1 @@
-In this project i used deep learning models like CNN and transfer learning to detect different types of tumors 
+This project demonstrates the detection and classification of brain tumor detection and classification using meta-heristic algos such as Grey wolf optimization and Particle swaem optimization .Model was firstly trained and tested using transfer learning but it gave overfitting and for removing of overfitting these algos were used.
